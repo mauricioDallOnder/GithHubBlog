@@ -26,7 +26,7 @@ data from your profile and display them as a blog.
 
 ## 🎨 Layout
 
-<img src="https://firebasestorage.googleapis.com/v0/b/chat-dos-otarios.appspot.com/o/blogPage.png?alt=media&token=7fdbd626-900f-47a5-8481-3b3c29855348" />
+<img src="https://firebasestorage.googleapis.com/v0/b/gerenciador-3a7f1.appspot.com/o/BlogPage.png?alt=media&token=b396c3ed-2f28-475f-819a-77816d27db37" />
 <br/>
 <img src="https://firebasestorage.googleapis.com/v0/b/chat-dos-otarios.appspot.com/o/postPage.png?alt=media&token=cb5dacea-48ac-4a9d-9118-65900ccbad20" />
 
