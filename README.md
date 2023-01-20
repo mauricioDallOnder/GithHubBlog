@@ -19,7 +19,7 @@ Table of Contents
 data from your profile and display them as a blog.
 
 ## ⚙️ Functionalities
-- Listing of your profile with image, number of followers, name and other information available through the GitHub API
+- Listing information available through the GitHub API
 - List and filter all issues in the repository with a short summary of its contents
 - Create a page to display a complete post (issue)
 
