@@ -1,53 +1,38 @@
-# Github Blog
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img src="https://img.shields.io/badge/build-passing-brightgreen"/>
+## Getting Started
 
-Table of Contents
-=================
-<p align="center">
- <a href="#-about-this-project">About this project</a> •
- <a href="#-Functionalities">Functionalities</a> • 
- <a href="#-layout">Layout</a> • 
- <a href="#-how-to-run-the-project">How To Run the Project</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
-</p>
+First, run the development server:
 
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-## 💻 About this project
-🚀 In this project, an application was developed that uses the GitHub API to fetch issues from a repository, 
-data from your profile and display them as a blog.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## ⚙️ Functionalities
-- Listing information available through the GitHub API
-- List and filter all issues in the repository with a short summary of its contents
-- Create a page to display a complete post (issue)
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-## 🎨 Layout
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-<img src="https://firebasestorage.googleapis.com/v0/b/gerenciador-3a7f1.appspot.com/o/BlogPage.png?alt=media&token=b396c3ed-2f28-475f-819a-77816d27db37" />
-<br/>
-<img src="https://firebasestorage.googleapis.com/v0/b/chat-dos-otarios.appspot.com/o/postPage.png?alt=media&token=cb5dacea-48ac-4a9d-9118-65900ccbad20" />
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Learn More
 
-## 🚀 How To Run the Project
-To run this project it is necessary:
+To learn more about Next.js, take a look at the following resources:
 
-1. Download the files, Vite and install npm
-2. Install react-router-dom,chakra-ui
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-#### 🧭 Running the application
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-- Type in your terminal "npm run dev"
-- ✨Done
+## Deploy on Vercel
 
-## 🛠 Tecnologias
-Typescript, React, Vite
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## 🦸 Autor
--Mauricio Dall Onder
-
- 
-
- 
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
